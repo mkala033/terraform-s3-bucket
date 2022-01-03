@@ -5,12 +5,12 @@ variable "aws_region" {
 
 variable "aws_access_key" {
   description = "The AWS region to use to create resources."
-  default     = "AKIA5D5JWOUCU3C6BY5J"
+  default     = "************BY5J"
 }
 
 variable "aws_secret_key" {
   description = "The AWS secret key to use to create resources."
-  default     = "uTWrTSbV968h8/DfSqCojNG4HGDUBVYi7ekiwzNA"
+  default     = "****************i7ekiwzNA"
 }
 
 variable "bucket_prefix" {
